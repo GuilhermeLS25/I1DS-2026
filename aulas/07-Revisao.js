@@ -61,9 +61,9 @@ console.log("O Resto da Divisão do ", num1, " por ", num2, " = ", restoDivisao)
     Retorna 'true' ou 'false'  | Verdadeiro ou Falso
 */
 
-console.log("O Numero 1 é Igual ao Numero 2?", num1 == num2);
-console.log("O Numero 1 é Maior ou Igual ao Numero 2?", num1 >= num2);
-console.log("O Numero 1 é Menor que o Numero 2?", num1 < num2);
+console.log("O Numero 1 é Igual ao Numero 2?", num1==num2);
+console.log("O Numero 1 é Maior ou Igual ao Numero 2?", num1>=num2);
+console.log("O Numero 1 é Menor que o Numero 2?", num1<num2);
 
 /* 
     Operadores Lógicos
@@ -76,27 +76,22 @@ console.log("O Numero 1 é Menor que o Numero 2?", num1 < num2);
 let sexo = "Feminino";
 let idadeAluno = 17;
 
-console.log(
-  "É sexo Masculino ou tem 17 ou mais anos de idade? ",
-  sexo == "Masculino" || idadeAluno >= 17,
-);
+console.log("É sexo Masculino ou tem 17 ou mais anos de idade? ",(sexo == "Masculino") || (idadeAluno >= 17));
 
-console.log(
-  "É sexo Masculino e tem 17 ou mais anos de idade? ",
-  sexo == "Masculino" && idadeAluno >= 17,
-);
+console.log("É sexo Masculino e tem 17 ou mais anos de idade? ",(sexo == "Masculino") && (idadeAluno >= 17));
 
-console.log(
-  "É sexo Masculino e tem 17 ou mais anos de idade? ",
-  !(sexo == "Masculino" && idadeAluno >= 17),
-);
+console.log("É sexo Masculino e tem 17 ou mais anos de idade? ",!((sexo == "Masculino") && (idadeAluno >= 17)));
 
-// Contatenando strings (Somando Texto)
+
+// Concatenando strings (somando texto)
 
 let n1 = "20";
 let n2 = 10;
 
-console.log(n1 + n2);
+console.log(n1+n2);
+console.log("20"+n2);
 
-console.log("20" + n2);
+var primeiroNome = "Cristiano";
+var sobreNome = " de Paula";
 
+console.log(primeiroNome+sobreNome);
