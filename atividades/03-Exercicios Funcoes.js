@@ -1,6 +1,6 @@
 /*****************************************************
-                                                            Lista de Exercícios
-                                        *****************************************************/
+                 Lista de Exercícios
+*****************************************************/
 //1. Crie uma função que receba como parâmetro o ano de nascimento de uma pessoa a retorne sua idade.
 
 function nasci(dataNascimento) {
