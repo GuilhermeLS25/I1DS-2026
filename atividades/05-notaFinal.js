@@ -33,12 +33,3 @@ function vericacao(nota) {
 
 let nota = 8;
 console.log("Você está: ", vericacao(nota));
-
-// Média Final
-
-let n1 = 8
-let n2 = 7
-let n3 = 5
-let n4 = 2
-
-
