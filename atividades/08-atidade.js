@@ -16,3 +16,16 @@ a matriz antes e após a multiplicação.
 | 4 6 2 |
 */
 
+let matriz = [
+  [3, 5, 8],
+  [1, 9, 2],
+  [7, 1, 4],
+];
+
+
+console.table(matriz[0][0]);
+console.table(matriz[1][1]);
+console.table(matriz[2][2]);
+
+
+
