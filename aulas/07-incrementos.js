@@ -19,5 +19,8 @@ console.log(idade);
 idade --
 console.log(idade);
 
-let novaIdade = idade + 1; //idade++ soma na mesma variavel
-console.log("Idade:", idade, "| Nova Idade:", novaIdade)
+let novaIdade = idade + 1; // idade++ soma na mesma variável
+console.log("Idade:", idade, "| Nova Idade:", novaIdade);
+
+novaIdade = idade++;
+console.log("Idade:", idade, "| Nova Idade:", novaIdade);
