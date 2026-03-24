@@ -32,7 +32,6 @@ console.log(numeros.length);
 
 for (let i = 0; i < numeros.length; i++) {
   soma += numeros[i];
-
 }
 
-console.log(soma)
+console.log(soma);
