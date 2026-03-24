@@ -11,7 +11,7 @@ function nasci(dataNascimento) {
 console.log("-----------------------------------------");
 console.log("->              SUA IDADE              <-");
 console.log("-----------------------------------------");
-console.log("Você irá fazer", nasci(2008), "anos.");
+console.log(" |> Você irá fazer", nasci(2008), "anos.");
 console.log("-----------------------------------------\n");
 
 /*
@@ -27,5 +27,5 @@ function kms(combustivel) {
 console.log("-----------------------------------------");
 console.log("->      CALCULADOR DE KILOMETROS       <-");
 console.log("-----------------------------------------");
-console.log("Seu carro pode viajar", kms(50), "Km");
+console.log(" |>Seu carro pode viajar", kms(50), "Km");
 console.log("-----------------------------------------");
