@@ -20,12 +20,25 @@ let matriz = [
   [3, 5, 8],
   [1, 9, 2],
   [7, 1, 4],
+]
+matriz
+for (let i = 0; i < 3 ; i++) {
+    console.table(matriz[i][i]);   
+}
+
+/**************************************************** 
+Dada a matriz abaixo, faça um programa em JavaScript
+que multiplique seus elementos por um valor x e imprima
+a matriz antes e após a multiplicação.
+****************************************************/
+let matriz2 = [
+    [8, 1, 3],
+    [2, 9, 1], 
+    [4, 6, 2], 
 ];
 
+for (let i = 0; i < matriz2.length; i++) {
+    matriz2 = i * 3
+}
 
-console.table(matriz[0][0]);
-console.table(matriz[1][1]);
-console.table(matriz[2][2]);
-
-
-
+console.table(object);
