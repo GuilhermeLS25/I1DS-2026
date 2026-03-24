@@ -1,28 +1,34 @@
-// Criando uma matriz
-var matriz = [
-    [9, 0, 1]
-    [7, 1, 2]
-    [6, 2, 8]
-    [1, 3, 9]
+// Dado o vetor, calcule e exiba a quantidade de pares e de
+// ímpares
+
+let numeros = [5, 6, 8, 14, 0, 6, 9, 7, 2];
+let par = 0;
+let impar = 0;
+
+for (let i = 0; i < numeros.length; i++) {
+    if(numeros[i] % 2 == 0) par ++;
+    else impar++;
+}
+console.log("Quantidade de pares", par);
+console.log("Quantidade de impares", impar);
+
+// Dado o vetor, multiplique todos seus elementos por 3
+console.table(numeros);
+
+for (let i = 0; i < numeros.length; i++) {
+   numeros[i] *= 3; // numeros[i] = numeros[1] * 3
+}
+console.log(numeros);
+
+// Dada uma matriz 2x3, imprima sua todos os seus elementos com as respectivas posição 
+let matriz = [
+    [8, 4, 1]
+    [3, 7, 8]
 ]
-console.table(matriz);
 
-// Obtendo elemento com base e seus índices
+console.log(matriz);
 
-console.log(matriz[(0, 1)]);
-
-/*********************************************
-                exercício
-*********************************************/
-/*
-    1. crie uma matriz 3x3
-    2. Imprime os valores da diagonal principal X
-    3. Altere os valores do item matriz[1][2] para 20 e
-       matriz[2][0] para 30
-*/
-let matris = [
-    [9, 0, 1]
-    [7, 1, 2]
-    [6, 2, 8]
-];
-console.table(matris);
+for (let linha = 0; linha < matriz.length; linha++)
+    for (let coluna = 0; coluna < matriz[0].length; coluna++);
+         console.log("Matriz[", linha, ",", coluna, "] =", matriz[linha][coluna]);
+        
