@@ -12,4 +12,3 @@ console.log("A altura do paralelepípedo é:", h);
 console.log("---------------------------------------------");
 console.log("O volume do paralelepípedo é igual a:", volume);
 console.log("---------------------------------------------");
-
