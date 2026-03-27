@@ -23,3 +23,4 @@ console.log(" -> A multiplicação entre", num1,"e", num2,"é igual a", multipli
 console.log(" -> A divisão entre", num1,"e", num2,"é igual a", divisao);
 console.log(" -> O Resto da Divisão entre", num1,"e", num2,"é igual a", resto);
 console.log("-----------------------------------------------------------------");
+
