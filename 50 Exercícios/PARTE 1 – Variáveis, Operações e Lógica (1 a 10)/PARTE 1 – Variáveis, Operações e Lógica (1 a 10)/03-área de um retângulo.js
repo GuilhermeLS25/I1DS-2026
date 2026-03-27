@@ -11,3 +11,4 @@ console.log("A altura do triangulo mede:", altura);
 console.log("--------------------------------------------------------");
 console.log("Logo, area total do triangulo é igual a:", area);
 console.log("--------------------------------------------------------");
+
