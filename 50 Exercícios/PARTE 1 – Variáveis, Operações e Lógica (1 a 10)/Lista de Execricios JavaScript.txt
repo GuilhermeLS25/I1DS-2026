@@ -1,0 +1,92 @@
+PARTE 1 – Variáveis, Operações e Lógica (1 a 10)
+1. Crie variáveis para nome, idade e cidade. Exiba uma frase completa.
+2. Crie duas variáveis numéricas e exiba:
+      soma
+      subtração
+      multiplicação
+      divisão
+      resto da divisão
+3. Calcule a área de um retângulo.
+4. Calcule o volume de um paralelepípedo.
+5. Dado o valor de um produto, calcule: 10% de desconto | valor final
+6. Converta temperatura de Celsius para Fahrenheit.
+7. Calcule o IMC e exiba o valor.
+8. Calcule a média de 3 notas.
+9. Calcule o delta de uma equação de 2º grau.
+10. Dado um valor em horas, converta para minutos e segundos.
+
+PARTE 2 – Condicionais (IF) (11 a 20)
+11. Verifique se um número é positivo, negativo ou zero.
+12. Verifique se um número é par ou ímpar.
+13. Dado um número, verifique se é múltiplo de 3.
+14. Verifique se um aluno foi:
+       Aprovado (≥ 7)
+       Recuperação (≥ 5 e < 7)
+       Reprovado (< 5)
+15. Verifique se uma pessoa pode votar (use regras reais).
+16. Verifique se um número está entre 10 e 50.
+17. Crie um sistema de login simples (usuário e senha).
+18. Verifique o maior entre dois números.
+19. Verifique o maior entre três números.
+20. Classifique a idade:
+       Criança
+       Adolescente
+       Adulto
+       Idoso
+
+PARTE 3 – Switch Case (21 a 25)
+21. Dado um número de 1 a 7, exiba o dia da semana.
+22. Dado um mês (1 a 12), exiba o nome do mês.
+23. Dado um mês, informe o trimestre.
+24. Crie um menu simples:
+       1: Somar
+       2: Subtrair
+       3: Multiplicar
+       4: Dividir
+25. Sistema de avaliação:
+       A → Excelente
+       B → Bom
+       C → Regular
+       D → Ruim
+
+PARTE 4 – Laço FOR (26 a 35) 🚨
+(TODOS DEVEM USAR for)
+26. Exiba números de 1 a 100.
+27. Exiba números de 100 até 1.
+28. Exiba apenas números pares de 1 a 50.
+29. Exiba apenas números ímpares de 1 a 50.
+30. Calcule a soma de 1 até 100.
+31. Calcule o fatorial de um número.
+32. Exiba a tabuada de um número.
+33. Conte quantos números pares existem entre 1 e 100.
+34. Exiba todos os múltiplos de 5 entre 0 e 100.
+35. Crie um programa que desenhe no console:
+       *
+       **
+       ***
+       ****
+       *****
+
+PARTE 5 – Vetores (36 a 42) 🚨
+(USAR for)
+36. Crie um vetor com 10 números e exiba todos.
+37. Calcule a soma dos elementos do vetor.
+38. Calcule a média do vetor.
+39. Encontre o maior valor do vetor.
+40. Encontre o menor valor do vetor.
+41. Conte quantos números são pares e ímpares.
+42. Multiplique todos os elementos por 2.
+
+PARTE 6 – Matrizes (43 a 50) 🚨
+(USAR for ANINHADO)
+43. Crie uma matriz 3x3 e exiba todos os valores.
+44. Exiba a diagonal principal de uma matriz.
+45. Exiba a diagonal secundária.
+46. Some todos os elementos da matriz.
+47. Encontre o maior valor da matriz.
+48. Multiplique todos os valores por um número X.
+49. Conte quantos valores são maiores que 10.
+50. Crie uma matriz e exiba no formato:
+[ 1 2 3 ]
+[ 4 5 6 ]
+[ 7 8 9 ]
