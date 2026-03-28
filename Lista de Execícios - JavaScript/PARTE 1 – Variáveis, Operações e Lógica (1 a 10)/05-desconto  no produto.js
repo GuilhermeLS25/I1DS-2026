@@ -1,3 +1,5 @@
+//5. Dado o valor de um produto, calcule: 10% de desconto | valor final.
+
 let p = 7;
 let d = (p * 10) / 100;
 let f = p - d;
