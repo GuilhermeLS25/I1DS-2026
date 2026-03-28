@@ -1,8 +1,7 @@
-/***************************************************
-21. Dado um número de 1 a 7, exiba o dia da semana.
-****************************************************/
+//21. Dado um número de 1 a 7, exiba o dia da semana.
 
 let num = 3;
+
 switch (num) {
     case 1:
         console.log("Segunda-Feira");
