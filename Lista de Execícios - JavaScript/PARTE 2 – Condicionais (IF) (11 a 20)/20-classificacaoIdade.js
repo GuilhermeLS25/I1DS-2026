@@ -3,7 +3,7 @@
     -Criança
     -Adolescente
     -Adulto
-    -Idoso
+    -Idoso.
 **************************/
 
 let idade = 18;
