@@ -3,6 +3,7 @@
 ****************************************************/
 
 let num = 5;
+
 switch (num) {
     case 1:
         console.log("Janeiro");
@@ -44,4 +45,3 @@ switch (num) {
         console.log("Esse Mês não!!");
         break;
 }
-
