@@ -19,4 +19,5 @@ if (numero > 0) {
     console.log("-------------------");
     console.log("-> O número é zero.");
     console.log("-------------------");
+    
 }
