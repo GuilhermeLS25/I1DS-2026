@@ -1,4 +1,5 @@
 // 9.Calcule o valor de delta de uma equção de 2° grau
+
 let a = 1;
 let b = -5;
 let c = 6;
