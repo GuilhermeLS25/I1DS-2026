@@ -3,7 +3,7 @@
 let num = 24;
 
 console.log("============================");
-console.log("->      TABUADA DO", num,"     <-");
+console.log(">      TABUADA DO", num,"     <");
 console.log("============================");
 
 for (let i = 1; i <= 10; i++){
