@@ -1,4 +1,4 @@
-//1. Crie variáveis para nome, idade e cidade. Exiba uma frase completa.
+//1. Crie variáveis para nome, idade e cidade. Exiba uma frase completa
 
 let nome = "Guilherme";
 let idade = 17;
