@@ -4,14 +4,14 @@ let num = 10;
 
 if (num % 2 == 0) {
 
-    console.log("---------------------");
-    console.log("-> Este número é par!");
-    console.log("---------------------");
+    console.log("------------------------");
+    console.log("-> O número", num, "é par!");
+    console.log("------------------------");
 
 } else {
     
-    console.log("-----------------------");
-    console.log("-> Este número é impar!");
-    console.log("-----------------------");
+    console.log("--------------------------");
+    console.log("-> O número", num, "é impar!");
+    console.log("--------------------------");
 
 }
