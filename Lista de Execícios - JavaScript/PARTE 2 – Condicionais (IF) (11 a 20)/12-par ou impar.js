@@ -1,4 +1,4 @@
-//12. Verifique se um número é par ou ímpar.
+//12. Verifique se um número é par ou ímpar
 
 let num = 10;
 
