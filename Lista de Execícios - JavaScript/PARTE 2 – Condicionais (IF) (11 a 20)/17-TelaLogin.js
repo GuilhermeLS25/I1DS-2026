@@ -1,4 +1,4 @@
-//17. Crie um sistema de login simples (usuário e senha).
+//17. Crie um sistema de login simples (usuário e senha)
 
 const user = "admin";
 const password = "12345";
