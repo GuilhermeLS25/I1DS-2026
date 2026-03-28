@@ -1,4 +1,4 @@
-// 7.Calcule o IMC
+// 7. Calcule o IMC e exiba o valor.
 
 let peso = 98;
 let altura = 1.8;
