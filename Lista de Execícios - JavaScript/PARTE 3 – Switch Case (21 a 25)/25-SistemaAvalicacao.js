@@ -1,3 +1,11 @@
+/************************
+25. Sistema de avaliação:
+       A → Excelente
+       B → Bom
+       C → Regular
+       D → Ruim
+**************************/
+
 let nota = "D";
 
 switch (nota) {
