@@ -1,3 +1,11 @@
+/*************************
+24. Crie um menu simples:
+       1: Somar
+       2: Subtrair
+       3: Multiplicar
+       4: Dividir
+**************************/
+
 let menu = "Multiplicar"
 let num1 = 5
 let num2 = 2
