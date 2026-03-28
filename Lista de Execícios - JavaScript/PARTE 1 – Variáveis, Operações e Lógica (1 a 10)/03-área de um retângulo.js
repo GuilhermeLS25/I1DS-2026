@@ -1,3 +1,5 @@
+//3. Calcule a área de um retângulo.
+
 let base = 5;
 let altura = 9;
 let area = (base * altura) / 2;
@@ -11,4 +13,3 @@ console.log("A altura do triangulo mede:", altura);
 console.log("--------------------------------------------------------");
 console.log("Logo, area total do triangulo é igual a:", area);
 console.log("--------------------------------------------------------");
-
