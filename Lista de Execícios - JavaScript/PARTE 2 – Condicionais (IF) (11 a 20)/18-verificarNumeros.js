@@ -1,4 +1,4 @@
-//18. Verifique o maior entre dois números.
+//18. Verifique o maior entre dois números
 
 let num1 = 10;
 let num2 = 11;
