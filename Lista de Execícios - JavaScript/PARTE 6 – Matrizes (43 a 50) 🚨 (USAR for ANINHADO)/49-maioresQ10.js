@@ -16,4 +16,6 @@ for (let l = 0; l < matriz.length; l++) {
     }
 }
 
-console.log("O total de Números que são maiores do que 10 é:", contador);
+console.log("-------------------------------------------------------------");
+console.log("-> O total de Números que são maiores do que 10 é:", contador);
+console.log("-------------------------------------------------------------");
