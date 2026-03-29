@@ -16,4 +16,6 @@ for (let l = 0; l < matriz.length; l++) {
     }
 }
 
-console.log(soma);
+console.log("-------------------------------------------------");
+console.log("-> A soma de todos os valores da Matriz é:", soma);
+console.log("-------------------------------------------------");
