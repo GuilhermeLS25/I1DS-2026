@@ -6,4 +6,6 @@ for (let i = 0; i <= 100; i++) {
     j += i;
 }
 
-console.log("A soma de 1 até 100 é igual a:", j);
+console.log("-------------------------------------");
+console.log("-> A soma de 1 até 100 é igual a:", j);
+console.log("-------------------------------------");
