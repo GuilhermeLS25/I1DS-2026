@@ -9,4 +9,6 @@ for (let i = 0; i < num.length; i++) {
     }
 }
 
+console.log("----------------------------------------------");
 console.log("O número", menor, "é o menor valor do Vetor!!");
+console.log("----------------------------------------------");
