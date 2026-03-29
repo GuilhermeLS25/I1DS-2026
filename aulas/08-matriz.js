@@ -22,13 +22,15 @@ console.log(numeros);
 
 // Dada uma matriz 2x3, imprima sua todos os seus elementos com as respectivas posição 
 let matriz = [
-    [8, 4, 1]
-    [3, 7, 8]
-]
+    [8, 4, 1],
+    [3, 7, 8],
+];
 
 console.log(matriz);
 
-for (let linha = 0; linha < matriz.length; linha++)
-    for (let coluna = 0; coluna < matriz[0].length; coluna++);
-         console.log("Matriz[", linha, ",", coluna, "] =", matriz[linha][coluna]);
+for (let linha = 0; linha < matriz.length; linha++) {
+    for (let coluna = 0; coluna < matriz[linha].length; coluna++) {
+        console.log("Matriz[", linha, ",", coluna, "]", matriz[linha][coluna]);
+    }
+}
         
