@@ -12,4 +12,6 @@ for (let i = 0; i < num.length; i++) {
     soma += num[i]; 
 }
 
+console.log("------------------------------------------------");
 console.log("-> A soma de todos os números do Vetor é:", soma);
+console.log("------------------------------------------------");
