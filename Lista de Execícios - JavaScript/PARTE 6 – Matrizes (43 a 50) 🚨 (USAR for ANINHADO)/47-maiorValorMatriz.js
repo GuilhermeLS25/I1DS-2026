@@ -17,4 +17,6 @@ for (let l = 0; l < matriz.length; l++) {
     }
 }
 
-console.log("O maior valor é o número:", maior);
+console.log("------------------------------------");
+console.log("-> O maior valor é o número:", maior);
+console.log("------------------------------------");
