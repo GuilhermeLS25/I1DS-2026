@@ -5,7 +5,7 @@ let minutos = (horas * 60);
 let segundos = (horas * 3600);
 
 console.log("----------------------------");
- console.log("Horas:", horas,);
- console.log("Minutos:", minutos);
-console.log("Segundos:", segundos);
+console.log("Horas:", horas,);
+console.log("-> Minutos:", minutos);
+console.log("-> Segundos:", segundos);
 console.log("----------------------------");
