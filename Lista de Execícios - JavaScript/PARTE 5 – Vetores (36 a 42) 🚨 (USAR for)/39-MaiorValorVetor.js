@@ -9,4 +9,6 @@ for (let i = 0; i < num.length; i++) {
     }
 }
 
+console.log("-----------------------------------------------------------");
 console.log("-> O número", maior, "é maior que todos os outros números!");
+console.log("-----------------------------------------------------------");
