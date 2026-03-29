@@ -8,4 +8,7 @@ for (let i = 1; i <= 100; i++) {
     }
 
 }
-console.log("a quantidade de números PARÉS entre 1 e 100 é:",contador);
+
+console.log("-----------------------------------------------------------");
+console.log("-> A quantidade de números PARÉS entre 1 e 100 é:",contador);
+console.log("-----------------------------------------------------------");
