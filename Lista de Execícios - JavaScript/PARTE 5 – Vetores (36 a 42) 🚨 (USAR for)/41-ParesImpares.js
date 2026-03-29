@@ -12,5 +12,7 @@ for (let i = 0; i < num.length; i++) {
     }
 }
 
+console.log("---------------------------------------------");
 console.log("-> Quantidade de Números PARES:", contador1);
 console.log("-> Quantidade de Números IMPARES:", contador2);
+console.log("---------------------------------------------");
