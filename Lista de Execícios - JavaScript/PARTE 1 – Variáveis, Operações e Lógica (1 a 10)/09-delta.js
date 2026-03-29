@@ -9,6 +9,6 @@ let delta = b**2 - 4*a*c;
 console.log("-----------------------------");
 console.log("-> Valor de a:", a);
 console.log("-> Valor de b:", b);
-console.log("-> Valor de c:", c)
-console.log("-> O valor de delta é:", delta)
+console.log("-> Valor de c:", c);
+console.log("-> O valor de delta é:", delta);
 console.log("-----------------------------");
