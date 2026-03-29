@@ -14,4 +14,6 @@ for (let i = 0; i < num.length; i++) {
 
 let media = soma / 10;
 
+console.log("------------------------------------------");
 console.log("-> A média dos números do Vetor é:", media);
+console.log("------------------------------------------");
