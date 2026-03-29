@@ -2,6 +2,8 @@
 
 var num = [10, 9, 8, 7, 6, 5, 4, 3, 2, 1];
 
+console.table(num);
+
 for (let i = 0; i < num.length; i++) {
     num[i] *= 2
 }
