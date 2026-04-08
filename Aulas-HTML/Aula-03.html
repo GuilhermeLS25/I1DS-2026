@@ -4,28 +4,60 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>HTML | Aula 03</title>
+    <style>
+      .my-text {
+        color: white;
+      }
+      #header {
+        background-color: red;
+        height: 130px;
+      }
+      #main{
+        background-color: #de35b7; 
+        height: 350px;
+      }
+      #aside{
+        background-color: blue;
+        height: 100%; 
+        width: 30%; 
+        float: left;
+      }
+      #footer{
+        background-color: gray; 
+        height: 30px;
+      }
+      #content{
+        background-color: green; 
+        height: 100%; 
+        width: 60%; 
+        float: right;
+      }
+    </style>
   </head>
   <body>
-    <div style="background-color: red; height: 130px">
+    <div id="header">
       <!-- DIV: Divisão de conteúdo (Vermelho) -->
-      <h1>Conteúdo do cabeçalho</h1>
+      <h1 class="my-text">Conteúdo do cabeçalho</h1>
     </div>
 
-    <div style="background-color: #de35b7; height: 350px">
+    <div id="main">
       <!-- DIV: Divisão de conteúdo (Rosa) -->
-      <div>
+      <div id="aside">
         <!-- DIV: Divisão de conteúdo (Azul) -->
-        <h2>Conteúdo Barra Lateral</h2>
+        <h2 class="my-text">Conteúdo Barra Lateral</h2>
       </div>
-      <div>
+
+      <div
+        id="content">
         <!-- DIV: Divisão de conteúdo (Verde) -->
-        <h2>Conteúdo Principal</h2>
+        <h2 class="my-text">Conteúdo Principal</h2>
       </div>
+      
     </div>
 
-    <div style="background-color: gray; height: 30px">
+    <div id="footer">
       <!-- DIV: Divisão de conteúdo (Cinza) -->
-      <h2>Conteúdo do rodapé</h2>
+      <h2 class="my-text">Conteúdo do rodapé</h2>
     </div>
   </body>
 </html>
