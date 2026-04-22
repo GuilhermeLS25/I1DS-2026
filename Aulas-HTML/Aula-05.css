@@ -6,7 +6,7 @@ Seletor de Elemento -> Tag html
 */
 
 body{
-    background-color: gray; /* Cor de Fundo */
+    background-image: gray; /* Cor de Fundo */
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Estilo da Fonte */
     font-size: 16px; /* Tamanho da Fonte */
     margin: 0px; /* Margem */
