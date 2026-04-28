@@ -1,12 +1,45 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> HTML Dinamico </title>
     <link rel="stylesheet" href="CSS/style.css">
 </head>
+
 <body>
-    
+
+    <h1> HTML dinamico com JavaScript </h1>
+    <button id="btn" onclick="OlaMundo()"> Clique aqui </button>
+
+    <h1 id="texto"> Esse texto vai ser alterado!! </h1>
+    <button onclick="mudarTexto()"> Mudar Texto </button>
+
+    <h3> Formuladrio de Contato </h3>
+
+    <form>
+        <Label for="nome"> Nome </Label>
+        <input type="text" id="nome" name="nome">
+
+        <button onclick="enviarNome()"> Enviar </button>
+    </form>
+
+    <form>
+        <label> Primeiro Número </label>
+        <input type="number" id="n1" name="n1">
+        <br>
+
+        <label> Segundo Número </label>
+        <input type="number" id="n2" name="n2">
+        <br>
+
+        <button onclick="somar()"> Somar </button>
+
+        <p></p>
+    </form>
+    <!-- Script vai sempre no final do body -->
+    <script src="JS/script.js"></script>
 </body>
+
 </html>
