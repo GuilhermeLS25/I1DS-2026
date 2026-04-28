@@ -25,9 +25,8 @@ const enviarNome = () => {
     let nomeDigitado = document.getElementsByName.value;
     alert("ola" + nomeDigitado);
   */
-
 };
 
 const somar = () => {
   
-}
+};
