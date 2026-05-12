@@ -17,7 +17,7 @@ body {
 .sidebar {
   width: 220px;
   height: 100dvh;
-  background-color: #b92424;
+  background-color: #e30613;
   color: white;
   padding: 20px;
   position: fixed;
@@ -37,7 +37,7 @@ body {
 }
 
 .sidebar a:hover {
-  background-color: #8c1b1b;
+  background-color: #9a1915;
 }
 
 .content {
@@ -69,7 +69,7 @@ input {
 }
 
 button {
-  background-color: #b92424;
+  background-color: #e30613;
   color: aliceblue;
   padding: 10px;
   width: 100%;
@@ -81,12 +81,12 @@ button {
 }
 
 button:hover {
-  background-color: #8c1b1b;
+  background-color: #9a1915;
   transform: scale(1.01);
 }
 
 li {
-  background-color: #b92424;
+  background-color: #e30613;
   padding: 10px;
   margin-top: 8px;
   border-radius: 6px;
@@ -95,6 +95,6 @@ li {
 }
 
 li:hover {
-  background-color: #8c1b1b;
+  background-color: #9a1915;
   transform: scale(1.005);
 }
